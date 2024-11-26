@@ -48,7 +48,7 @@ public class Practice_01 {
                     int choice;
                     float amount;
                     float result;
-                    float rate = 4100;
+                    final float rate = 4100;
                     System.out.println("1. USD to KHR");
                     System.out.println("2. KHR to USD");
                     do {
