@@ -83,5 +83,7 @@ public class Practice_01 {
             }
 
         } while (option != 3);
+
+        scanner.close();
     }
 }
